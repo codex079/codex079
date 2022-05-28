@@ -1,3 +1,1 @@
-This is Edu file
-line 2
-line 3
+ This is Edu file
